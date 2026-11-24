@@ -3,6 +3,8 @@
 An animated clock for the **M5Stack Core (320x240)** running **UIFlow2 / MicroPython**, themed on the Myanmar Festival of Lights (Tazaungdaing):
 Thatbyinnyu Temple and the Shwedagon Pagoda, toddy palms, a night market with lanterns, oil lamps and fire balloons.
 
+![Demo: the clock in dawn, day, rain, storm, snow, fog, dusk and night skies](images/demo.png)
+
 The scene follows the real sky at your location:
 
 - Dawn, day, dusk and night, based on today's real sunrise and sunset
