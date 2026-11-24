@@ -5,6 +5,8 @@ Thatbyinnyu Temple and the Shwedagon Pagoda, toddy palms, a night market with la
 
 ![Demo: the clock in dawn, day, rain, storm, snow, fog, dusk and night skies](images/demo.png)
 
+New to the festival? Read **[Tazaungdaing — Myanmar's Festival of Lights](FESTIVAL.md)** for its traditions, dates and sources.
+
 The scene follows the real sky at your location:
 
 - Dawn, day, dusk and night, based on today's real sunrise and sunset
