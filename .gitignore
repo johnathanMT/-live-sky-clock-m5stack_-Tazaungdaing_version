@@ -1,0 +1,9 @@
+# Personal Wi-Fi credentials and location
+secrets.py
+
+# Python / editor / OS junk
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
